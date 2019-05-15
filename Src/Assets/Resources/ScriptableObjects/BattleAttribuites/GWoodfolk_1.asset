@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a60b7f758a84c39867a42fd38ccabc9, type: 3}
+  m_Name: GWoodfolk_1
+  m_EditorClassIdentifier: 
+  CardID: GWoodfolk_1
+  ID: GWoodfolk_1
+  Color: G
+  Effort: "\u6B64\u5355\u4F4D\u90E8\u7F72\u65F6\uFF0C\u76EE\u6807\u53CB\u65B9\u5355\u4F4D\u83B7\u5F974\u70B9\u751F\u547D\u3002"
+  uName: "\u7FE0\u6797\u65C5\u4F34"
+  HasCD: 1
+  HP: 7
+  MaxHp: 7
+  Prt: 0
+  Mov: 2
+  atk: 1
+  rng: 2
+  ability:
+  - Heal
+  tag:
+  - "\u53F6\u65CF"

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a60b7f758a84c39867a42fd38ccabc9, type: 3}
+  m_Name: HLunamage_1 1
+  m_EditorClassIdentifier: 
+  CardID: HLunamage_1
+  ID: HLunamage_1
+  Color: UR
+  Effort: "\u6B64\u5355\u4F4D\u4F7F\u7528\u7684\u6548\u679C\u724CCD\u51CF1\uFF08\u6700\u5C0F\u4E3A1\uFF09"
+  uName: "\u6708\u5C0F\u4E2B"
+  HasCD: 1
+  HP: 16
+  MaxHp: 16
+  Prt: 0
+  Mov: 3
+  atk: 1
+  rng: 1
+  ability:
+  - QuickArk
+  - Wit
+  tag:
+  - "\u82F1\u96C4"
+  - "\u65BD\u6CD5\u8005"

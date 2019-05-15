@@ -1,0 +1,40 @@
+[
+  {
+    "atk": 2,
+    "hp": 5,
+    "id": "superCreature_01",
+    "mov": 2,
+    "name": "超级生物",
+    "priority": 2,
+    "rng": 1,
+    "tag": [
+      "生物",
+      "精英"
+    ]
+  },
+  {
+    "atk": 3,
+    "hp": 4,
+    "id": "superCreature_02",
+    "mov": 2,
+    "name": "超级战士",
+    "priority": 0,
+    "rng": 1,
+    "tag": [
+      "战士",
+      "精英"
+    ]
+  },
+  {
+    "atk": 0,
+    "hp": 9999999,
+    "id": "obstacle",
+    "mov": 0,
+    "name": "障碍物",
+    "priority": 0,
+    "rng": 0,
+    "tag": [
+      "障碍物"
+    ]
+  }
+]

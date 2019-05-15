@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a60b7f758a84c39867a42fd38ccabc9, type: 3}
+  m_Name: RPhoenix_1
+  m_EditorClassIdentifier: 
+  CardID: RPhoenix_1
+  ID: RPhoenix_1
+  Color: UR
+  Effort: "\u8FC5\u6377\u3002\u98DE\u884C\u3002\u6B64\u5355\u4F4D\u6E83\u9000\u65F6\uFF0C\u5176\u539F\u5730\u590D\u6D3B\u4E14\u4FDD\u6709\u7B49\u540C\u4E8E\u4E00\u534A\u6700\u5927\u751F\u547D\u503C\u7684\u751F\u547D\u3002\u968F\u540E\u6B64\u5355\u4F4D\u5931\u53BB\u6B64\u80FD\u529B\u76F4\u5230\u4E0B\u6B21\u90E8\u7F72\u3002"
+  uName: "\u8D64\u706B\u4E4B\u7FFC"
+  HasCD: 1
+  HP: 6
+  MaxHp: 6
+  Prt: 0
+  Mov: 4
+  atk: 4
+  rng: 2
+  ability:
+  - Haste
+  - Fly
+  - Regeneration
+  tag:
+  - "\u5143\u7D20"
+  - "\u91CE\u517D"

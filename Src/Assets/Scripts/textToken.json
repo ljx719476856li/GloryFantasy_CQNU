@@ -1,0 +1,28 @@
+[
+    {
+        "atk": 2,
+        "hp": 5,
+        "id": "superCreature_01",
+        "mov": 2,
+        "name": "超级生物",
+        "priority": 2,
+        "rng": 1,
+        "tag": [
+            "生物",
+            "精英"
+        ]
+    },
+    {
+        "atk": 3,
+        "hp": 4,
+        "id": "superCreature_02",
+        "mov": 2,
+        "name": "超级战士",
+        "priority": 0,
+        "rng": 1,
+        "tag": [
+            "战士",
+            "精英"
+        ]
+    }
+]

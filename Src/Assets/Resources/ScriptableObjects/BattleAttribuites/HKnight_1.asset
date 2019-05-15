@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a60b7f758a84c39867a42fd38ccabc9, type: 3}
+  m_Name: HKnight_1
+  m_EditorClassIdentifier: 
+  CardID: HKnight_1
+  ID: HKnight_1
+  Color: RP
+  Effort: "\u8FC5\u6377\uFF0C\u8FC5\u51FB"
+  uName: "\u674E\u58EE\u5B9E"
+  HasCD: 1
+  HP: 22
+  MaxHp: 22
+  Prt: 2
+  Mov: 4
+  atk: 5
+  rng: 1
+  ability:
+  - Haste
+  - FirstStrike
+  tag:
+  - "\u82F1\u96C4"
+  - "\u9A91\u58EB"

@@ -1,0 +1,457 @@
+[
+  {
+    "area": 1,
+    "token": [],
+    "x": 0,
+    "y": 0,
+    "type": "burning"
+  },
+  {
+    "area": 1,
+    "token": [
+      {
+        "Controler - Enemy, Friendly or Self": "Self",
+        "Damaged": 5,
+        "name": "superCreature_02"
+      }
+    ],
+    "x": 0,
+    "y": 1,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 0,
+    "y": 2,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 0,
+    "y": 3,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 0,
+    "y": 4,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 0,
+    "y": 5,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 0,
+    "y": 6,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 0,
+    "y": 7,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 1,
+    "y": 0,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 1,
+    "y": 1,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 1,
+    "y": 2,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 1,
+    "y": 3,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 1,
+    "y": 4,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 1,
+    "y": 5,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 1,
+    "y": 6,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 1,
+    "y": 7,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 2,
+    "y": 0,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 2,
+    "y": 1,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 2,
+    "y": 2,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 2,
+    "y": 3,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 2,
+    "y": 4,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 2,
+    "y": 5,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 2,
+    "y": 6,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 2,
+    "y": 7,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 3,
+    "y": 0,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 3,
+    "y": 1,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 3,
+    "y": 2,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 3,
+    "y": 3,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 3,
+    "y": 4,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 3,
+    "y": 5,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 3,
+    "y": 6,
+    "type": "normal"
+  },
+  {
+    "area": 1,
+    "token": [],
+    "x": 3,
+    "y": 7,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 4,
+    "y": 0,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 4,
+    "y": 1,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 4,
+    "y": 2,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 4,
+    "y": 3,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 4,
+    "y": 4,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 4,
+    "y": 5,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 4,
+    "y": 6,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 4,
+    "y": 7,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 5,
+    "y": 0,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 5,
+    "y": 1,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 5,
+    "y": 2,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 5,
+    "y": 3,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 5,
+    "y": 4,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 5,
+    "y": 5,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 5,
+    "y": 6,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 5,
+    "y": 7,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 6,
+    "y": 0,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 6,
+    "y": 1,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 6,
+    "y": 2,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 6,
+    "y": 3,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 6,
+    "y": 4,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 6,
+    "y": 5,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 6,
+    "y": 6,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 6,
+    "y": 7,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 7,
+    "y": 0,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 7,
+    "y": 1,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 7,
+    "y": 2,
+    "type": "normal"
+  },
+
+  {
+    "area": 2,
+    "token": [],
+    "x": 7,
+    "y": 3,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 7,
+    "y": 4,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 7,
+    "y": 5,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 7,
+    "y": 6,
+    "type": "normal"
+  },
+  {
+    "area": 2,
+    "token": [],
+    "x": 7,
+    "y": 7,
+    "type": "normal"
+  }
+]
