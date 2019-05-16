@@ -1,0 +1,2180 @@
+﻿[
+  {
+    "Ability": [
+
+    ],
+    "ID": "HElf_1",
+    "Name": "琳",
+    "Color": [
+      "R",
+      "G"
+    ],
+    "Atk": "4",
+    "Hp": "12",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "0",
+    "Tag": [
+      "英雄",
+      "弓手",
+      "叶族"
+    ],
+    "CardID": "HElf_1",
+    "HasCD": "1",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "G"
+    ],
+    "Tag": [
+      "英雄",
+      "弓手",
+      "叶族"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "HElf_2",
+    "Name": "琳",
+    "Atk": "4",
+    "Hp": "14",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "HElf_2",
+    "HasCD": "1",
+    "Effort": "可能进行【整备】。",
+    "Event": {
+      "Hostling": 1
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "G"
+    ],
+    "Tag": [
+      "英雄",
+      "弓手",
+      "叶族"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "HElf_3",
+    "Name": "琳",
+    "Atk": "4",
+    "Hp": "16",
+    "Rng": "3",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "HElf_3",
+    "HasCD": "1",
+    "Effort": "可能进行【整备】。",
+    "Event": {
+      "Hostling": 1
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "P"
+    ],
+    "Tag": [
+      "人类",
+      "英雄",
+      "骑手"
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "HKnight_1",
+    "Name": "道格拉斯",
+    "Atk": "5",
+    "Hp": "20",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "2",
+    "CardID": "HKnight_1",
+    "HasCD": "1",
+    "Effort": "迅捷",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "P"
+    ],
+    "Tag": [
+      "人类",
+      "英雄",
+      "骑手"
+    ],
+    "Ability": [
+      "Haste",
+      "FirstStrike"
+    ],
+    "ID": "HKnight_2",
+    "Name": "道格拉斯",
+    "Atk": "5",
+    "Hp": "20",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "2",
+    "CardID": "HKnight_2",
+    "HasCD": "1",
+    "Effort": "迅捷，迅击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "P"
+    ],
+    "Tag": [
+      "人类",
+      "英雄",
+      "骑手"
+    ],
+    "Ability": [
+      "Haste",
+      "FirstStrike"
+    ],
+    "ID": "",
+    "Name": "道格拉斯",
+    "Atk": "6",
+    "Hp": "22",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "2",
+    "CardID": "HKnight_3",
+    "HasCD": "1",
+    "Effort": "即时备战。迅捷，迅击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "U",
+      "R"
+    ],
+    "Tag": [
+      "英雄",
+      "门卡",
+      "施法者"
+    ],
+    "Ability": [
+      "QuickArk"
+    ],
+    "ID": "HLunamage_1",
+    "Name": "蔻蔻",
+    "Atk": "1",
+    "Hp": "14",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "HLunamage_1",
+    "HasCD": "1",
+    "Effort": "活绪。此单位使用的效果牌CD减1（最小为1）。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "U",
+      "R"
+    ],
+    "Tag": [
+      "英雄",
+      "门卡",
+      "施法者"
+    ],
+    "Ability": [
+      "QuickArk"
+    ],
+    "ID": "HLunamage_2",
+    "Name": "蔻蔻",
+    "Atk": "1",
+    "Hp": "16",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "HLunamage_2",
+    "HasCD": "1",
+    "Effort": "活绪。此单位使用的效果牌CD减1（最小为1）。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "U",
+      "R"
+    ],
+    "Tag": [
+      "英雄",
+      "门卡",
+      "施法者"
+    ],
+    "Ability": [
+      "QuickArk"
+    ],
+    "ID": "HLunamage_3",
+    "Name": "蔻蔻",
+    "Atk": "1",
+    "Hp": "18",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "HLunamage_3",
+    "HasCD": "1",
+    "Effort": "即时备战。活绪。此单位使用的效果牌CD减1（最小为1）。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "人类"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "WSoldier_1",
+    "Name": "征召战士",
+    "Atk": "3",
+    "Hp": "8",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "WSoldier_1",
+    "HasCD": "1",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "人类"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "WSoldier_2",
+    "Name": "征召战士",
+    "Atk": "4",
+    "Hp": "11",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "WSoldier_2",
+    "HasCD": "1",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "人类"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "WSoldier_3",
+    "Name": "征召战士",
+    "Atk": "5",
+    "Hp": "14",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "WSoldier_3",
+    "HasCD": "1",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "叶族",
+      "弓手"
+    ],
+    "Ability": [
+      "LastStrike"
+    ],
+    "ID": "WArcher_1",
+    "Name": "密林卫士",
+    "Atk": "3",
+    "Hp": "8",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "-2",
+    "CardID": "WArcher_1",
+    "HasCD": "1",
+    "Effort": "滞击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "叶族",
+      "弓手"
+    ],
+    "Ability": [
+      "LastStrike"
+    ],
+    "ID": "WArcher_2",
+    "Name": "密林卫士",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "-2",
+    "CardID": "WArcher_2",
+    "HasCD": "1",
+    "Effort": "滞击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "叶族",
+      "弓手"
+    ],
+    "Ability": [
+      "LastStrike"
+    ],
+    "ID": "WArcher_3",
+    "Name": "密林卫士",
+    "Atk": "4",
+    "Hp": "12",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "WArcher_3",
+    "HasCD": "1",
+    "Effort": "滞击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "门卡",
+      "机甲"
+    ],
+    "Ability": [
+      "Armor_1"
+    ],
+    "ID": "WArmour_1",
+    "Name": "红眼MK-I",
+    "Atk": "3",
+    "Hp": "12",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "WArmour_1",
+    "HasCD": "1",
+    "Effort": "护甲1",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "门卡",
+      "机甲"
+    ],
+    "Ability": [
+      "Armor_1"
+    ],
+    "ID": "WArmour_2",
+    "Name": "红眼MK-I",
+    "Atk": "3",
+    "Hp": "12",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "WArmour_2",
+    "HasCD": "1",
+    "Effort": "护甲1",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "门卡",
+      "机甲"
+    ],
+    "Ability": [
+      "Armor_1"
+    ],
+    "ID": "WArmour_3",
+    "Name": "红眼MK-I",
+    "Atk": "3",
+    "Hp": "12",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "WArmour_3",
+    "HasCD": "1",
+    "Effort": "护甲1",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R"
+    ],
+    "Tag": [
+      "人类",
+      "骑手"
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "RKnight_1",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "RKnight_1",
+    "HasCD": "1",
+    "Effort": "迅捷。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R"
+    ],
+    "Tag": [
+      "人类",
+      "骑手"
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "RKnight_2",
+    "Name": "流浪骑士",
+    "Atk": "4",
+    "Hp": "12",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "RKnight_2",
+    "HasCD": "1",
+    "Effort": "迅捷。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R"
+    ],
+    "Tag": [
+      "人类",
+      "骑手"
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "RKnight_3",
+    "Name": "流浪骑士",
+    "Atk": "5",
+    "Hp": "15",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "RKnight_3",
+    "HasCD": "1",
+    "Effort": "迅捷。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R"
+    ],
+    "Tag": [
+      "元素",
+      "野兽"
+    ],
+    "Ability": [
+      "Haste",
+      "免役粘滞",
+      "Regeneration"
+    ],
+    "ID": "RPhoenix_1",
+    "Name": "赤火之翼",
+    "Atk": "4",
+    "Hp": "6",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "RPhoenix_1",
+    "HasCD": "1",
+    "Effort": "迅捷。免疫粘滞。此单位溃退时，其原地复活且保有等同于一半最大生命值的生命。随后此单位失去此能力直到下次部署。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R"
+    ],
+    "Tag": [
+      "元素",
+      "野兽"
+    ],
+    "Ability": [
+      "Haste",
+      "免役粘滞",
+      "Regeneration"
+    ],
+    "ID": "RPhoenix_2",
+    "Name": "赤火之翼",
+    "Atk": "4",
+    "Hp": "8",
+    "Rng": "2",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "RPhoenix_2",
+    "HasCD": "1",
+    "Effort": "迅捷。免疫粘滞。此单位溃退时，其原地复活且保有等同于一半最大生命值的生命。随后此单位失去此能力直到下次部署。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R"
+    ],
+    "Tag": [
+      "元素",
+      "野兽"
+    ],
+    "Ability": [
+      "Haste",
+      "免役粘滞",
+      "Regeneration"
+    ],
+    "ID": "RPhoenix_3",
+    "Name": "赤火之翼",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "2",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "RPhoenix_3",
+    "HasCD": "1",
+    "Effort": "迅捷。免疫粘滞。此单位溃退时，其原地复活且保有等同于最大生命值的生命。随后此单位失去此能力直到下次部署。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+      "叶族"
+    ],
+    "Ability": [
+      "此单位部署时，目标友方单位获得4点生命。"
+    ],
+    "ID": "GWoodfolk_1",
+    "Name": "翠林旅伴",
+    "Atk": "3",
+    "Hp": "7",
+    "Rng": "2",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "GWoodfolk_1",
+    "HasCD": "1",
+    "Effort": "此单位部署时，目标友方单位获得4点生命。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+      "叶族"
+    ],
+    "Ability": [
+      "此单位部署时，目标友方单位获得4点生命。"
+    ],
+    "ID": "GWoodfolk_2",
+    "Name": "翠林旅伴",
+    "Atk": "3",
+    "Hp": "7",
+    "Rng": "2",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "GWoodfolk_2",
+    "HasCD": "1",
+    "Effort": "此单位部署时，目标友方单位获得4点生命。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+      "叶族"
+    ],
+    "Ability": [
+      "此单位部署时，目标友方单位获得4点生命。"
+    ],
+    "ID": "GWoodfolk_3",
+    "Name": "翠林旅伴",
+    "Atk": "3",
+    "Hp": "7",
+    "Rng": "2",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "GWoodfolk_3",
+    "HasCD": "1",
+    "Effort": "此单位部署时，目标友方单位获得4点生命。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+      "野兽"
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "GWinterwolf_1",
+    "Name": "霜狼",
+    "Atk": "3",
+    "Hp": "6",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "GWinterwolf_1",
+    "HasCD": "1",
+    "Effort": "迅捷。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+      "野兽"
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "GWinterwolf_2",
+    "Name": "霜狼",
+    "Atk": "4",
+    "Hp": "8",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "GWinterwolf_2",
+    "HasCD": "1",
+    "Effort": "迅捷。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+      "野兽"
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "GWinterwolf_3",
+    "Name": "霜狼",
+    "Atk": "5",
+    "Hp": "9",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "GWinterwolf_3",
+    "HasCD": "1",
+    "Effort": "迅捷。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R"
+    ],
+    "Tag": [
+      "元素"
+    ],
+    "Ability": [
+      "你的回合结束时，此单位烧灼其周围3*3的格子，一回合后消解，并对其上的单位造成2点伤害。",
+      "免疫烧灼"
+    ],
+    "ID": "RFiresuli_1",
+    "Name": "闷燃火灵",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "2",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "RFiresuli_1",
+    "HasCD": "1",
+    "Effort": "免疫烧灼。你的回合结束时，此单位烧灼其周围3*3的格子，一回合后消解，并对其上的单位造成2点伤害。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R"
+    ],
+    "Tag": [
+      "元素"
+    ],
+    "Ability": [
+      "你的回合结束时，此单位烧灼其周围3*3的格子，一回合后消解，并对其上的单位造成2点伤害。",
+      "免疫烧灼"
+    ],
+    "ID": "RFiresuli_2",
+    "Name": "闷燃火灵",
+    "Atk": "4",
+    "Hp": "14",
+    "Rng": "2",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "RFiresuli_2",
+    "HasCD": "1",
+    "Effort": "免疫烧灼。你的回合结束时，此单位烧灼其周围3*3的格子，一回合后消解，并对其上的单位造成3点伤害。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R"
+    ],
+    "Tag": [
+      "元素"
+    ],
+    "Ability": [
+      "你的回合结束时，此单位烧灼其周围3*3的格子，一回合后消解，并对其上的单位造成4点伤害。",
+      "免疫烧灼"
+    ],
+    "ID": "RFiresuli_3",
+    "Name": "闷燃火灵",
+    "Atk": "4",
+    "Hp": "14",
+    "Rng": "3",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "RFiresuli_3",
+    "HasCD": "1",
+    "Effort": "免疫烧灼。你的回合结束时，此单位烧灼其周围3*3的格子，一回合后消解，并对其上的单位造成4点伤害。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+     
+    ],
+    "Ability": [
+
+    ],
+    "ID": "GWall_1",
+    "Name": "墙体",
+    "Atk": "0",
+    "Hp": "6",
+    "Rng": "0",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "GWall_1",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "GWall_2",
+    "Name": "墙体",
+    "Atk": "0",
+    "Hp": "10",
+    "Rng": "0",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "GWall_2",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "GWall_3",
+    "Name": "墙体",
+    "Atk": "0",
+    "Hp": "14",
+    "Rng": "0",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "GWall_3",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Shadow_1",
+    "Name": "黑影",
+    "Atk": "4",
+    "Hp": "6",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Shadow_2",
+    "Name": "黑影",
+    "Atk": "5",
+    "Hp": "7",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Shadow_3",
+    "Name": "黑影",
+    "Atk": "5",
+    "Hp": "8",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "ShadowWolf_1",
+    "Name": "狼影",
+    "Atk": "5",
+    "Hp": "4",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "ShadowWolf_2",
+    "Name": "狼影",
+    "Atk": "5",
+    "Hp": "6",
+    "Rng": "1",
+    "Mov": "4",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "ShadowWolf_3",
+    "Name": "狼影",
+    "Atk": "6",
+    "Hp": "6",
+    "Rng": "1",
+    "Mov": "4",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "U"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Shadow_Bolt",
+      "同一战区的其他友方单位获得+1/+2。"
+    ],
+    "ID": "ShadowWarlock_1",
+    "Name": "暗影祭司",
+    "Atk": "1",
+    "Hp": "7",
+    "Rng": "1",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "不进行移动和攻击。作为攻击的代替4格以内有敌方单位时此单位会对其造成3点伤害。同一战区的其他友方单位获得+1/+2。可能触发【暗影雷暴】。",
+    "AfterEvent": "ShadowWarlock_Lightning",
+    "Event": {
+      "ShadowWarlock_Lightning": 4
+    }
+  },
+  {
+    "Color": [
+      "U"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Shadow_Bolt",
+      "同一战区的其他友方单位获得+1/+3。"
+    ],
+    "ID": "ShadowWarlock_2",
+    "Name": "暗影祭司",
+    "Atk": "1",
+    "Hp": "8",
+    "Rng": "1",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "不进行移动和攻击。作为攻击的代替4格以内有敌方单位时此单位会对其造成3点伤害。同一战区的其他友方单位获得+1/+3。可能触发【暗影雷暴】。此单位为来源的事件强度+1。",
+    "AfterEvent": "ShadowWarlock_Lightning",
+    "Event": {
+      "ShadowWarlock_Lightning": 4
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "LastStrike"
+    ],
+    "ID": "ShadowArcher_1",
+    "Name": "弓手之影",
+    "Atk": "4",
+    "Hp": "8",
+    "Rng": "4",
+    "Mov": "2",
+    "Prt": "-2",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "滞击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "LastStrike"
+    ],
+    "ID": "ShadowArcher_2",
+    "Name": "弓手之影",
+    "Atk": "4",
+    "Hp": "9",
+    "Rng": "4",
+    "Mov": "2",
+    "Prt": "-2",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "滞击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "LastStrike"
+    ],
+    "ID": "ShadowArcher_3",
+    "Name": "弓手之影",
+    "Atk": "5",
+    "Hp": "10",
+    "Rng": "4",
+    "Mov": "2",
+    "Prt": "-2",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "滞击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "P"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      "Haste",
+      "FirstStrike",
+      "Regeneration"
+    ],
+    "ID": "ShadowKnight_1",
+    "Name": "影之迅骑",
+    "Atk": "5",
+    "Hp": "15",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "2",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷。迅击。此单位溃退时，其原地复活且保有等同于一半最大生命值的生命。随后此单位失去此能力直到下次部署。可能触发【暗影骑士团】。",
+    "Event": {
+      "ShadowKnight_ShadowOrder": 2
+    }
+  },
+  {
+    "Color": [
+      "P"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      "Haste",
+      "FirstStrike",
+      "Regeneration"
+    ],
+    "ID": "ShadowKnight_2",
+    "Name": "影之迅骑",
+    "Atk": "5",
+    "Hp": "15",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "2",,
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷。迅击。此单位溃退时，其原地复活且保有等同于一半最大生命值的生命。随后此单位失去此能力直到下次部署。可能触发【暗影骑士团】。",
+    "Event": {
+      "ShadowKnight_ShadowOrder": 2
+    }
+  },
+  {
+    "Color": [
+      "U"
+    ],
+    "Tag": [
+      
+    ],
+    "Ability": [
+      "Armor_2"
+    ],
+    "ID": "ShadowArmour_1",
+    "Name": "暗影战甲Mkt-I",
+    "Color": "U",
+    "Atk": "4",
+    "Hp": "14",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "0",
+    "Tag": "",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "护甲2。此单位受到伤害时，其MOV变为4直到下一个你的回合开始。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "U"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Armor_2"
+    ],
+    "ID": "ShadowArmour_2",
+    "Name": "暗影战甲Mkt-I",
+    "Atk": "4",
+    "Hp": "14",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "护甲2。此单位受到伤害时，其MOV变为4直到下一个你的回合开始。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "P"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      "Armor_1",
+      "Fly",
+      "Shadow_FireEnchantment"
+    ],
+    "ID": "ShadowFire_1",
+    "Name": "不灭邪影",
+    "Atk": "4",
+    "Hp": "18",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "护甲1。飞行。攻击时会烧灼攻击目标周围3*3的格子，一回合后消解，并对其上的单位造成1点伤害。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "P"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      "Armor_1",
+      "Fly",
+      "Shadow_FireEnchantment"
+    ],
+    "ID": "ShadowFire_2",
+    "Name": "不灭邪影",
+    "Atk": "4",
+    "Hp": "18",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "护甲1。飞行。攻击时会烧灼攻击目标周围3*3的格子，一回合后消解，并对其上的单位造成1点伤害。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      
+    ],
+    "Ability": [
+      "免疫粘滞"
+    ],
+    "ID": "Ooze_1",
+    "Name": "深沼泥人",
+    "Atk": "2",
+    "Hp": "8",
+    "Rng": "1",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫粘滞。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "免疫粘滞",
+      "溃退时在其1级爆发范围产生粘滞地块，2回合后消解。"
+    ],
+    "ID": "Ooze_2",
+    "Name": "深沼泥人",
+    "Atk": "2",
+    "Hp": "10",
+    "Rng": "1",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫粘滞。溃退时在其1级爆发范围产生粘滞地块，2回合后消解。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "免疫粘滞",
+      "溃退时在其1级爆发范围产生粘滞地块，2回合后消解。"
+    ],
+    "ID": "Ooze_3",
+    "Name": "深沼泥人",
+    "Atk": "3",
+    "Hp": "11",
+    "Rng": "1",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫粘滞。溃退时在其2级爆发范围产生粘滞地块，2回合后消解。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "Bumblebee_1",
+    "Name": "迅雷毒蜂",
+    "Atk": "4",
+    "Hp": "4",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Haste",
+      "目盲"
+    ],
+    "ID": "Bumblebee_2",
+    "Name": "迅雷毒蜂",
+    "Atk": "4",
+    "Hp": "6",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷。受到此单位伤害的单位获得目盲，一回合后消解。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Haste",
+      "目盲"
+    ],
+    "ID": "Bumblebee_3",
+    "Name": "迅雷毒蜂",
+    "Atk": "5",
+    "Hp": "10",
+    "Rng": "1",
+    "Mov": "4",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷。受到此单位伤害的单位获得目盲，一回合后消解。可能触发【召唤胞群】。",
+    "Event": {
+      "Bumblebee_SummonKins": 1
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      
+    ],
+    "ID": "Chomper_1",
+    "Name": "恶臭食人花",
+    "Atk": "5",
+    "Hp": "20",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "可能触发【吞噬】，【迷乱花毒】",
+    "Event": {
+      "Chomper_Swallow": "",
+      "Chomper_Animate": 1
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Chomper_2",
+    "Name": "恶臭食人花",
+    "Atk": "7",
+    "Hp": "30",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "可能触发【吞噬】，【迷乱花毒】和【召唤蜂群】",
+    "Event": {
+      "Chomper_Swallow": "",
+      "Chomper_Animate": 1,
+      "Chomper_SummonBees": 2
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Fireant_1",
+    "Name": "巨鄂沙蚁",
+    "Atk": "2",
+    "Hp": "6",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Fireant_2",
+    "Name": "巨鄂沙蚁",
+    "Atk": "3",
+    "Hp": "7",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "受到此单位伤害的单位获得滞击，一回合后消解。"
+    ],
+    "ID": "Fireant_3",
+    "Name": "巨鄂沙蚁",
+    "Atk": "3",
+    "Hp": "9",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "受到此单位伤害的单位获得滞击，一回合后消解。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      
+    ],
+    "Ability": [
+      "Armor_3",
+      "免疫灼烧",
+      "4回合后转化为黝黑石像鬼(Gargoyle_1)。"
+    ],
+    "ID": "Gargoyle_0",
+    "Name": "黝黑石像",
+    "Atk": "0",
+    "Hp": "5",
+    "Rng": "1",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "护甲3。免疫烧灼。4回合后转化为黝黑石像鬼(Gargoyle_1)。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "免疫灼烧",
+      "溃退时转化为黝黑石像。"
+    ],
+    "ID": "Gargoyle_1",
+    "Name": "黝黑石像鬼",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫烧灼。溃退时转化为黝黑石像。可能触发【战役高昂】。",
+    "Event": {
+      "Gargoyle_Upgrade": ""
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "免疫灼烧",
+      "溃退时转化为黝黑石像。"
+    ],
+    "ID": "Gargoyle_2",
+    "Name": "黝黑石像鬼",
+    "Atk": "5",
+    "Hp": "14",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫烧灼。溃退时转化为黝黑石像。可能触发【战役高昂】。",
+    "Event": {
+      "Gargoyle_Upgrade": ""
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "免疫灼烧",
+      "溃退时转化为黝黑石像。"
+    ],
+    "ID": "Gargoyle_3",
+    "Name": "黝黑石像鬼",
+    "Atk": "6",
+    "Hp": "18",
+    "Rng": "1",
+    "Mov": "3",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫烧灼。溃退时转化为黝黑石像。可能触发【尘沙杀戮】。",
+    "Event": {
+      "Gargoyle_MurderousSand": 2
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "SandwormHead_1",
+    "Name": "沙虫（头）",
+    "Atk": "4",
+    "Hp": "17",
+    "Rng": "4",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "可能触发【猛扑】、【扬尘】。",
+    "AfterEvent": "Sandworm_Pounce/Sandworm_Burrow",
+    "Event": {
+      "Sandworm_Pounce": 5,
+      "Sandworm_Burrow": 4
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "SandwormHead_2",
+    "Name": "沙虫（头）",
+    "Atk": "6",
+    "Hp": "26",
+    "Rng": "4",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "可能触发【猛扑】、【扬尘】和【喷吐武器】。",
+
+    "Event": {
+      "Sandworm_Pounce": 5,
+      "Sandworm_Burrow": 4,
+      "Sandworm_Breath": 4
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      "溃退时将露出头部。"
+    ],
+    "ID": "SandwormTail_1",
+    "Name": "沙虫（尾）",
+    "Atk": "4",
+    "Hp": "4",
+    "Rng": "2",
+    "Mov": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "溃退时将露出头部。可能触发【扬尘】。",
+    "Event": {
+      "Sandworm_Burrow": 4
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      "溃退时将露出头部。"
+    ],
+    "ID": "SandwormTail_2",
+    "Name": "沙虫（尾）",
+    "Atk": "5",
+    "Hp": "6",
+    "Rng": "2",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "溃退时将露出头部。可能触发【扬尘】。",
+    "Event": {
+      "Sandworm_Burrow": 4
+    }
+  },
+  {
+    "Color": [
+      "P"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Tentacle_1",
+    "Name": "幽暗触手",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "P"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Tentacle_2",
+    "Name": "幽暗触手",
+    "Atk": "6",
+    "Hp": "10",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "P"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Tentacle_3",
+    "Name": "幽暗触手",
+    "Atk": "6",
+    "Hp": "12",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "P"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "免疫粘滞"
+    ],
+    "ID": "ShadowPage_1",
+    "Name": "魔册残页",
+    "Atk": "3",
+    "Hp": "8",
+    "Rng": "1",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫粘滞。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "P"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "免疫粘滞"
+    ],
+    "ID": "ShadowPage_2",
+    "Name": "魔册残页",
+    "Atk": "4",
+    "Hp": "9",
+    "Rng": "1",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫粘滞。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "P"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "免疫粘滞"
+    ],
+    "ID": "ShadowPage_3",
+    "Name": "魔册残页",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "1",
+    "Mov": "1",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫粘滞。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "P"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "FacelessVoid_1",
+    "Name": "异空虚灵",
+    "Atk": "3",
+    "Hp": "10",
+    "Rng": "2",
+    "Mov": "1",
+    "Prt": "-2",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "受到的普通攻击伤害减半",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      "免疫目盲",
+      "免疫眩晕",
+      "免疫卸武",
+      "每个双方回合额外触发一个事件。"
+    ],
+    "ID": "Devil_1",
+    "Name": "灾厄之影",
+    "Atk": "3",
+    "Hp": "40",
+    "Rng": "10",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫目盲。免疫眩晕。免疫卸武。每个双方回合额外触发一个事件。可能触发【增殖】。",
+    "Event": {
+      "Devil_Proliferative": 2
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      "免疫目盲",
+      "免疫眩晕",
+      "免疫卸武",
+      "每个双方回合额外触发一个事件。"
+    ],
+    "ID": "Devil_2",
+    "Name": "灾厄之影",
+    "Atk": "7",
+    "Hp": "40",
+    "Rng": "4",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫目盲。免疫眩晕。免疫卸武。可能触发【挥击】、【增殖】和【邪星爆发】。",
+    "Event": {
+      "Devil_DashSwing": 7,
+      "Devil_Voidshock": 5,
+      "Devil_Proliferative": 2
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "GreenTentacle_1",
+    "Name": "枯朽之握",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "3",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "可能触发事件【邪林援护】。",
+    "Event": {
+      "GreenTentacle_MarshReinforce": 2
+    }
+  },
+  {
+    "Color": [
+      "P"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "PurpleTentacle_1",
+    "Name": "邪罪之握",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "3",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "可能触发事件【渊罪行进】。",
+    "Event": {
+      "PurpleTentacle_DarkReinforce": 2
+    }
+  },
+  {
+    "Color": [
+      "U"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "BlueTentacle_1",
+    "Name": "幽暗之握",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "3",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "可能触发事件【心灵创击】。",
+    "Event": {
+      "BlueTentacle_HerartSmash": 2
+    }
+  },
+  {
+    "Color": [
+      "R"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "RedTentacle_1",
+    "Name": "暴行之握",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "3",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "可能触发事件【沙之恶从】。",
+    "Event": {
+      "RedTentacle_SandReinforce": 2
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "LastDevil_1",
+    "Name": "灾厄之影 II",
+    "Atk": "8",
+    "Hp": "25",
+    "Rng": "3",
+    "Mov": "4",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G",
+      "R"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "BossElf_1",
+    "Name": "黑影 琳",
+    "Atk": "4",
+    "Hp": "20",
+    "Rng": "3",
+    "Mov": "3",
+    "Prt": "2",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  }
+
+]
