@@ -1,0 +1,598 @@
+﻿[
+  {
+    "Ability": [
+
+    ],
+    "ID": "HElf_1",
+    "Name": "琳",
+    "Color": [
+      "R",
+      "G"
+    ],
+    "Atk": "4",
+    "Hp": "12",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "0",
+    "Tag": [
+      "英雄",
+      "弓手",
+      "叶族"
+    ],
+    "CardID": "HElf_1",
+    "HasCD": "1",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "G"
+    ],
+    "Tag": [
+      "英雄",
+      "弓手",
+      "叶族"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "HElf_2",
+    "Name": "琳",
+    "Atk": "4",
+    "Hp": "14",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "HElf_2",
+    "HasCD": "1",
+    "Effort": "可能进行【整备】。",
+    "Event": {
+      "Hostling": 1,
+      "Empty": 1
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "G"
+    ],
+    "Tag": [
+      "英雄",
+      "弓手",
+      "叶族"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "HElf_3",
+    "Name": "琳",
+    "Atk": "4",
+    "Hp": "16",
+    "Rng": "3",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "HElf_3",
+    "HasCD": "1",
+    "Effort": "可能进行【整备】。",
+    "Event": {
+      "Hostling": 1,
+      "Empty": 1
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "P"
+    ],
+    "Tag": [
+      "人类",
+      "英雄",
+      "骑手"
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "HKnight_1",
+    "Name": "道格拉斯",
+    "Atk": "5",
+    "Hp": "20",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "2",
+    "CardID": "HKnight_1",
+    "HasCD": "1",
+    "Effort": "迅捷",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "P"
+    ],
+    "Tag": [
+      "人类",
+      "英雄",
+      "骑手"
+    ],
+    "Ability": [
+      "Haste",
+      "FirstStrike"
+    ],
+    "ID": "HKnight_2",
+    "Name": "道格拉斯",
+    "Atk": "5",
+    "Hp": "20",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "2",
+    "CardID": "HKnight_2",
+    "HasCD": "1",
+    "Effort": "迅捷，迅击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "R",
+      "P"
+    ],
+    "Tag": [
+      "人类",
+      "英雄",
+      "骑手"
+    ],
+    "Ability": [
+      "Haste",
+      "FirstStrike"
+    ],
+    "ID": "",
+    "Name": "道格拉斯",
+    "Atk": "6",
+    "Hp": "22",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "2",
+    "CardID": "HKnight_3",
+    "HasCD": "1",
+    "Effort": "即时备战。迅捷，迅击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "U",
+      "R"
+    ],
+    "Tag": [
+      "英雄",
+      "门卡",
+      "施法者"
+    ],
+    "Ability": [
+      "QuickArk"
+    ],
+    "ID": "HLunamage_1",
+    "Name": "蔻蔻",
+    "Atk": "1",
+    "Hp": "14",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "HLunamage_1",
+    "HasCD": "1",
+    "Effort": "活绪。此单位使用的效果牌CD减1（最小为1）。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "U",
+      "R"
+    ],
+    "Tag": [
+      "英雄",
+      "门卡",
+      "施法者"
+    ],
+    "Ability": [
+      "QuickArk"
+    ],
+    "ID": "HLunamage_2",
+    "Name": "蔻蔻",
+    "Atk": "1",
+    "Hp": "16",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "HLunamage_2",
+    "HasCD": "1",
+    "Effort": "活绪。此单位使用的效果牌CD减1（最小为1）。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "U",
+      "R"
+    ],
+    "Tag": [
+      "英雄",
+      "门卡",
+      "施法者"
+    ],
+    "Ability": [
+      "QuickArk"
+    ],
+    "ID": "HLunamage_3",
+    "Name": "蔻蔻",
+    "Atk": "1",
+    "Hp": "18",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "HLunamage_3",
+    "HasCD": "1",
+    "Effort": "即时备战。活绪。此单位使用的效果牌CD减1（最小为1）。",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "人类"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "WSoldier_1",
+    "Name": "征召战士",
+    "Atk": "3",
+    "Hp": "8",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "WSoldier_1",
+    "HasCD": "1",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "人类"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "WSoldier_2",
+    "Name": "征召战士",
+    "Atk": "4",
+    "Hp": "11",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "WSoldier_2",
+    "HasCD": "1",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "人类"
+    ],
+    "Ability": [
+
+    ],
+    "ID": "WSoldier_3",
+    "Name": "征召战士",
+    "Atk": "5",
+    "Hp": "14",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "WSoldier_3",
+    "HasCD": "1",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "叶族",
+      "弓手"
+    ],
+    "Ability": [
+      "LastStrike"
+    ],
+    "ID": "WArcher_1",
+    "Name": "密林卫士",
+    "Atk": "3",
+    "Hp": "8",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "-2",
+    "CardID": "WArcher_1",
+    "HasCD": "1",
+    "Effort": "滞击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "叶族",
+      "弓手"
+    ],
+    "Ability": [
+      "LastStrike"
+    ],
+    "ID": "WArcher_2",
+    "Name": "密林卫士",
+    "Atk": "4",
+    "Hp": "10",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "-2",
+    "CardID": "WArcher_2",
+    "HasCD": "1",
+    "Effort": "滞击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "叶族",
+      "弓手"
+    ],
+    "Ability": [
+      "LastStrike"
+    ],
+    "ID": "WArcher_3",
+    "Name": "密林卫士",
+    "Atk": "4",
+    "Hp": "12",
+    "Rng": "3",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "WArcher_3",
+    "HasCD": "1",
+    "Effort": "滞击",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Shadow_1",
+    "Name": "黑影",
+    "Atk": "4",
+    "Hp": "6",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Shadow_2",
+    "Name": "黑影",
+    "Atk": "5",
+    "Hp": "7",
+    "Rng": "1",
+    "Mov": "2",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+
+    ],
+    "ID": "Shadow_3",
+    "Name": "黑影",
+    "Atk": "5",
+    "Hp": "8",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "ShadowWolf_1",
+    "Name": "狼影",
+    "Atk": "5",
+    "Hp": "4",
+    "Rng": "1",
+    "Mov": "3",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "ShadowWolf_2",
+    "Name": "狼影",
+    "Atk": "5",
+    "Hp": "6",
+    "Rng": "1",
+    "Mov": "4",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "G"
+    ],
+    "Tag": [
+
+    ],
+    "Ability": [
+      "Haste"
+    ],
+    "ID": "ShadowWolf_3",
+    "Name": "狼影",
+    "Atk": "6",
+    "Hp": "6",
+    "Rng": "1",
+    "Mov": "4",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "迅捷",
+    "Event": {
+
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      "BlindImmune",
+      "DizzinessImmune",
+      "DisarmImmune",
+      "EventExplode"
+    ],
+    "ID": "Devil_1",
+    "Name": "灾厄之影",
+    "Atk": "3",
+    "Hp": "40",
+    "Rng": "10",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫目盲。免疫眩晕。免疫卸武。每个双方回合额外触发一个事件。可能触发【增殖】。",
+    "Event": {
+      "Devil_Proliferative": 1,
+      "Empty": 1
+    }
+  },
+  {
+    "Color": [
+      "W"
+    ],
+    "Tag": [
+      "传奇"
+    ],
+    "Ability": [
+      "BlindImmune",
+      "DizzinessImmune",
+      "DisarmImmune",
+      "EventExplode"
+    ],
+    "ID": "Devil_2",
+    "Name": "灾厄之影",
+    "Atk": "7",
+    "Hp": "40",
+    "Rng": "4",
+    "Mov": "0",
+    "Prt": "0",
+    "CardID": "",
+    "HasCD": "0",
+    "Effort": "免疫目盲。免疫眩晕。免疫卸武。可能触发【挥击】、【增殖】和【邪星爆发】。",
+    "Event": {
+      "Devil_DashSwing": 1,
+      "Devil_Voidshock": 1,
+      "Devil_Proliferative": 1,
+      "Empty": 1
+    }
+  }
+]
